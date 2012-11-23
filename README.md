@@ -2,3 +2,6 @@
 
 Setup guide for programming languages.
 
+# TODO
+- perl
+- go
