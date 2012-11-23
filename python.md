@@ -11,6 +11,22 @@ source ENV/bin/activate
 pip --version
 ```
 
+add these lines to .zshrc
+```
+virtualenv ENV
+source ENV/bin/activate
+```
+
+## ipython and dependencies
+```
+pip install readline
+pip install nose
+pip install pexpect
+pip install pyzmq
+pip install tornado
+pip install ipython
+```
+
 # TODO:
 - virtualenvwrapper
 - ipython
