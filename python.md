@@ -25,7 +25,15 @@ pip install pexpect
 pip install pyzmq
 pip install tornado
 pip install ipython
+pip install numpy
+pip install matplotlib
 ```
+
+run ipython notebook
+```
+ipython notebook
+```
+open [sample notes](https://github.com/ipython/ipython/tree/master/docs/examples/notebooks).
 
 # TODO:
 - virtualenvwrapper
